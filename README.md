@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Rohan Auti</h1>
-<h3 align="center">💻 Java Development |BCA Student |Full Stack Developer</h3>
+<h3 align="center">💻 Java Development | BCA Student | Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Java, Sql, and Wed Development**
 
