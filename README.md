@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **rohanauti14@gmail.com**
 
--🚀 Goals: My goal is to become full stack java developer
+  -🚀 Goals: My goal is to become full stack java developer
 
--💻 I enjoy building Java projects
+  -💻 I enjoy building Java projects
 
 - ⚡ Fun fact "Code.Learn. Build. Repeat"
 
