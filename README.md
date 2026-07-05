@@ -15,7 +15,7 @@
 <p align="left">
 -instagram:-https://www.instagram.com/rohan.auti__
   
--linkedin:-https://www.linkedin.com/in/rohan-auti-67a481356 
+-linkedin:-https://www.linkedin.com/in/rohan-auti-
 
 -gmail:-rohanauti14@gmail.com
 
